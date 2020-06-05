@@ -6,7 +6,7 @@ In this track, you are asked to predict a tight bounding box around object insta
 
 The training set contains 12.2M bounding-boxes across 500 categories on 1.7M images. The boxes have been largely manually drawn by professional annotators to ensure accuracy and consistency. The images are very diverse and often contain complex scenes with several objects (7 per image on average).
 
-![](images/desc1.png)
+![](desc1.png)
 
 Example annotations. Left: Mark Paul Gosselaar plays the guitar by Rhys A. Right: the house by anita kluska. Both images used under CC BY 2.0 license.
 
