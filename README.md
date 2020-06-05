@@ -11,3 +11,14 @@ The training set contains 12.2M bounding-boxes across 500 categories on 1.7M ima
 Example annotations. Left: Mark Paul Gosselaar plays the guitar by Rhys A. Right: the house by anita kluska. Both images used under CC BY 2.0 license.
 
 The training data, format, and submission modalities are identical to the 2019 Open Images Challenge.
+
+# Open Images Object Detection RVC 2020 edition
+# Detect objects in varied and complex images
+
+  Using FasterRCNN+InceptionResNet V2, an SSD-based object detection model trained on Open Images V4 with ImageNet pre-trained   MobileNet V2 as image feature extractor.
+
+# Acknowledgements
+
+a) tensorflow hub
+b) kernels pull singhuday/image-object-detection
+
